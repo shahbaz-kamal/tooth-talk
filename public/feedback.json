@@ -1,0 +1,58 @@
+[
+  {
+    "reviewId": 1,
+    "name": "Emily Davis",
+    "userImg": "https://i.ibb.co/m97SZxJ/emily-davis.jpg",
+    "review": "Previously my teeth were crowded or crooked. These were not so good looking. After getting treatment from Dr. Jakariya, my smile has become so much better.",
+    "rating": 4.8
+  },
+  {
+    "reviewId": 2,
+    "name": "Jane Smith",
+    "userImg": "https://i.ibb.co/FVX2v0r/jane-smith.jpg",
+    "review": "My wisdom teeth were giving me so much trouble. My daily life was getting affected due to the pain. Dr. Jakariya's treatment was a lifesaver.",
+    "rating": 4.9
+  },
+  {
+    "reviewId": 3,
+    "name": "Mishele Lee",
+    "userImg": "https://i.ibb.co/Zfmywg2/Mishele-lee.jpg",
+    "review": "For some reasons I needed dental implant. My friend suggested Dr. Jakariya and I got the best treatment from him.",
+    "rating": 4.7
+  },
+  {
+    "reviewId": 4,
+    "name": "John Doe",
+    "userImg": "https://i.ibb.co/85YyNfC/john-doe.jpg",
+    "review": "Dr. Jakariya is very good at teeth whitening. I took this treatment 3 times and every time I got excellent results.",
+    "rating": 5
+  },
+  {
+    "reviewId": 5,
+    "name": "Sophia Johnson",
+    "userImg": "https://i.ibb.co/3pCMNn8/sophia-johnson.jpg",
+    "review": "I was really scared of dental procedures. But Dr. Jakariya made me feel comfortable and the treatment was painless.",
+    "rating": 4.8
+  },
+  {
+    "reviewId": 6,
+    "name": "Josh Butler",
+    "userImg": "https://i.ibb.co/gz5ZqDs/butler.webp",
+    "review": "Dr. Jakariya is very professional and knowledgeable. He explained everything clearly and answered all my questions.",
+    "rating": 5
+  },
+  {
+    "reviewId": 7,
+    "name": "David Warner",
+    "userImg": "https://i.ibb.co/9bQXyW3/david-warner.jpg",
+    "review": "I love my new smile! Thanks to Dr. Jakariya and his team for the excellent care.",
+    "rating": 4.4
+  },
+  {
+    "reviewId": 8,
+    "name": "Kane Willamson",
+    "userImg": "https://i.ibb.co/f9wg59h/kane-williamson.webp",
+    "review": "I highly recommend Dr. Jakariya to anyone looking for a great dentist. He is friendly, professional, and skilled.",
+    "rating": 4.7
+  }
+]

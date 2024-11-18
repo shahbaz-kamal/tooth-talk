@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "treatment": "Dental Implant",
+    "image": "https://i.ibb.co/cTnYDK8/dental-implant.webp",
+    "description": "A dental implant is a small, screw-like post surgically placed into your jawbone to replace the root of a missing tooth.  The implant acts as an anchor for a dental crown, bridge, or denture, providing a strong, long-lasting solution for restoring missing teeth and improving your smile and chewing function.",
+    "cost": 800
+  },
+  {
+    "id": 2,
+    "treatment": "Teeth Whitening",
+    "image": "https://i.ibb.co/vvZMw8c/teeth-whitening.jpg",
+    "description": "Teeth whitening is a cosmetic dental procedure that brightens the appearance of your teeth.  Over time, teeth can become stained from food, drinks, and smoking.  Teeth whitening can be performed in our office using professional-grade whitening products or at home with a take-home whitening kit provided by your dentist.",
+    "cost": 100
+  },
+  {
+    "id": 3,
+    "treatment": "Dental Crown",
+    "image": "https://i.ibb.co/yqCZT3B/dental-crownjpg.jpgg",
+    "description": "A dental crown is a tooth-shaped cap that is cemented onto a damaged or weakened tooth.  Crowns can be made from various materials, including porcelain, metal, or a combination of both.  They restore the strength, shape, size, and appearance of a tooth, allowing you to chew, speak, and smile with confidence.",
+    "cost": 500
+  },
+  {
+    "id": 4,
+    "treatment": "Dental Bridge",
+    "image": "https://i.ibb.co/ryxPxdz/fixed-dental-bridges.jpg",
+    "description": "A dental bridge is a fixed dental appliance that replaces one or more missing teeth.  It is anchored to the surrounding healthy teeth with dental crowns and suspends artificial teeth in the gap where the missing teeth were.  Bridges restore your smile, improve chewing ability, and prevent surrounding teeth from shifting.",
+    "cost": 1200
+  },
+  {
+    "id": 5,
+    "treatment": "Root Canal",
+    "image": "https://i.ibb.co/7VN1q43/Root-canals.jpg",
+    "description": "A root canal is a dental procedure that removes the infected or inflamed pulp (the inner tissue) of a tooth.  The pulp contains nerves and blood vessels, and when infected, can cause significant pain.  During a root canal, the pulp is removed, the inside of the tooth is cleaned and disinfected, and the tooth is sealed with a filling or crown.  This treatment saves the tooth and prevents the need for extraction.",
+    "cost": 900
+  },
+  {
+    "id": 6,
+    "treatment": "Dental Filling",
+    "image": "https://i.ibb.co/gRktdm1/dental-filling.jpg",
+    "description": "A dental filling is a material used to repair a cavity or hole in a tooth caused by decay.  Decay is a common dental problem caused by bacteria that feed on sugar and produce acid.  Fillings restore the tooth's shape, function, and prevent further decay.",
+    "cost": 1100
+  },
+  {
+    "id": 7,
+    "treatment": "Dental Cleaning",
+    "image": "https://i.ibb.co/SyNS7MK/Dental-Cleaning.webp",
+    "description": "A dental cleaning, also known as prophylaxis, is a professional cleaning of your teeth and gums performed by a dentist or hygienist.  Cleanings remove plaque and tartar (calculus) buildup, which can contribute to gum disease.  Regular dental cleanings are essential for maintaining good oral health and preventing gum disease.",
+    "cost": 600
+  },
+  {
+    "id": 8,
+    "treatment": "Dental X-ray",
+    "image": "https://i.ibb.co/JQjwjKR/Dental-X-ray.jpg",
+    "description": "A dental X-ray is a diagnostic imaging technique used to capture images of your teeth, jawbone, and surrounding structures.  X-rays help dentists detect cavities, diagnose gum disease, assess the health of your jawbone, and plan dental treatments.",
+    "cost": 500
+  }
+]
